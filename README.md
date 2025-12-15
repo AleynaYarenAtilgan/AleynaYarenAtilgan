@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-Merhaba Ben Aleyna Yaren Atılgan
-Uçak Mühendisliği Öğrencisi
+Merhaba Ben Aleyna Yaren Atılgan|Uçak Mühendisliği Öğrencisi
+
 
 
 <!--
