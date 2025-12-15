@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-Merhaba ben Aleyna Yaren Atılgan
+Merhaba Ben Aleyna Yaren Atılgan
+Uçak Mühendisliği Öğrencisi
+
 
 <!--
 **AleynaYarenAtilgan/AleynaYarenAtilgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
